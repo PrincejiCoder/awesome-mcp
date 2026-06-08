@@ -202,6 +202,7 @@ Servers with free tiers or that require paid API access.
 - [PayPal](https://github.com/paypal/paypal-mcp) 💲 ☁️ - PayPal integration
 - [Alpha Vantage](https://mcp.alphavantage.co/) 💰 ☁️ 🟢 - Financial market data
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) 💲 ☁️ 🟢 - Trust scoring for AI agents on Solana. Verify wallet identity before x402 micropayments
 #### 🔍 Search & Analytics
 
 - [Exa](https://github.com/exa-labs/exa-mcp-server) 💰 ☁️ 🟢 - AI-powered search
