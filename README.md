@@ -207,6 +207,7 @@ Servers with free tiers or that require paid API access.
 - [Exa](https://github.com/exa-labs/exa-mcp-server) 💰 ☁️ 🟢 - AI-powered search
 - [Perplexity](https://www.perplexity.ai/mcp) 💰 ☁️ 🟢 - AI search and answers
 - [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) 💰 ☁️ 🟢 - Privacy-focused analytics
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) 💰 ☁️ 🟡 - X data API and MCP server for post search, account lookups, trends, exports, webhooks, and confirmation-gated actions.
 
 #### 🎨 Creative & Media
 
