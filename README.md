@@ -214,6 +214,7 @@ Servers with free tiers or that require paid API access.
 - [YouTube](https://github.com/youtube/youtube-mcp) 💰 ☁️ - YouTube video platform
 - [DALL-E](https://github.com/openai/dall-e-mcp) 💲 ☁️ - AI image generation
 - [Midjourney](https://midjourney.com/mcp) 💲 ☁️ - AI image generation
+- [RunAPI MCP](https://github.com/runapi-ai/mcp) 💲 ☁️ - Create image, video, music/audio, text-to-speech, and other model API jobs through RunAPI.
 
 #### 📊 Data & Analytics
 
