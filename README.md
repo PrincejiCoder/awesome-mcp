@@ -247,6 +247,7 @@ Servers that enable workflow automation, browser automation, and task orchestrat
 
 ### Browser Automation
 
+- [Agent QA](https://github.com/vostride/agent-qa) 🔑 🏠 🔴 🟢 - Run natural-language web, Android, and iOS tests and inspect artifacts through MCP; source-available (FSL-1.1-ALv2), with no software fee for permitted use and separate model/browser/device provider costs.
 - [Playwright](https://github.com/microsoft/playwright-mcp) 🆓 🏠 🔴 - Official Microsoft Playwright MCP server for web automation
 - [Browserbase](https://github.com/browserbase/mcp-server-browserbase) 💰 ☁️ 🔴 - Cloud browser automation with headless Chrome
 - [Puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 🆓 🏠 🔴 - Browser automation for web scraping
