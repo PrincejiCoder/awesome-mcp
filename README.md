@@ -415,6 +415,8 @@ Early-stage or experimental servers not yet production-ready.
 
 **Note:** These servers are actively developed but may have incomplete features, breaking changes, or stability issues. Use with caution in production environments.
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) 🆓 🏠 🟡 🧪 - Developer-alpha MCP server for encrypted, append-only knowledge with scoped, expiring grants; build from source.
+
 - Submit your experimental MCP server via PR!
 
 ---
