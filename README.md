@@ -153,6 +153,7 @@ Servers that are **free to use**, with no API keys or optional free registration
 - [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🆓 ☁️ 🟢 - Web content fetching
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 🔑 ☁️ 🟢 - Web search
 - [Google Search](https://github.com/mixelpixx/Google-Search-MCP-Server) 🆓 ☁️ 🟢 - Google search results
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) 🆓 ☁️ 🟢 - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
 
 #### 🧠 AI & Productivity
 
