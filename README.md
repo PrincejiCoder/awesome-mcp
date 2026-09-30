@@ -158,7 +158,6 @@ Servers that are **free to use**, with no API keys or optional free registration
 #### 🧠 AI & Productivity
 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) 🆓 🏠 - Problem-solving through thought sequences
-- [Kleap](https://github.com/kleaphq/cli) 💰 ☁️ 🟡 🟢 - No-code website builder MCP (remote `https://kleap.co/api/mcp`). Create, edit, and publish live sites from an AI agent.
 
 ---
 
@@ -216,6 +215,7 @@ Servers with free tiers or that require paid API access.
 - [Spotify](https://github.com/spotify/spotify-mcp) 💰 ☁️ - Spotify music streaming
 - [YouTube](https://github.com/youtube/youtube-mcp) 💰 ☁️ - YouTube video platform
 - [DALL-E](https://github.com/openai/dall-e-mcp) 💲 ☁️ - AI image generation
+- [Kleap](https://github.com/kleaphq/cli) 💰 ☁️ 🟡 🟢 - No-code website builder MCP (remote `https://kleap.co/api/mcp`). Create, edit, and publish live sites from an AI agent.
 - [Midjourney](https://midjourney.com/mcp) 💲 ☁️ - AI image generation
 - [RunAPI MCP](https://github.com/runapi-ai/mcp) 💲 ☁️ - Create image, video, music/audio, text-to-speech, and other model API jobs through RunAPI.
 
