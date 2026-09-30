@@ -158,6 +158,7 @@ Servers that are **free to use**, with no API keys or optional free registration
 #### 🧠 AI & Productivity
 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) 🆓 🏠 - Problem-solving through thought sequences
+- [Kleap](https://github.com/kleaphq/cli) 💰 ☁️ 🟡 🟢 - No-code website builder MCP (remote `https://kleap.co/api/mcp`). Create, edit, and publish live sites from an AI agent.
 
 ---
 
