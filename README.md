@@ -320,6 +320,7 @@ Servers for Retrieval-Augmented Generation and vector database integration.
 - [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 🆓 🏠 🟡 - Knowledge graph-based persistent memory
 - [Obsidian](https://github.com/obsidian/obsidian-mcp) 💰 🏠 🟡 - Personal knowledge base
 - [Notion](https://github.com/notion/notion-mcp) 💰 ☁️ 🟡 - Connected workspace
+- [Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp) 💰 🏠 🟡 🟢 - Search locally captured screen text and audio history for recall and work summaries. Requires a running Screenpipe instance and local API key. Source-available under the Screenpipe Commercial License; configured cloud services can transmit context off-device ([Freemium pricing](https://screenpipe.com/pricing)).
 
 ### Embedding Services
 
