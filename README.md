@@ -198,6 +198,7 @@ Servers with free tiers or that require paid API access.
 
 #### 💰 Finance & Business
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) 🏠 🔴 🟢 - Local macOS CLI and stdio MCP payments with foreground owner approval for signing (free MIT software; network and third-party fees apply).
 - [Stripe](https://stripe.com/mcp) 💲 ☁️ - Stripe payments API
 - [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 💲 ☁️ - Subscription management
 - [PayPal](https://github.com/paypal/paypal-mcp) 💲 ☁️ - PayPal integration
