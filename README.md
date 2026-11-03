@@ -222,6 +222,7 @@ Servers with free tiers or that require paid API access.
 
 #### 📊 Data & Analytics
 
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) 💰 🏠 🟢 - Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. Local stdio server (`npx -y github:GeminiGeorge22/etsy-sales-mcp`); needs your own Apify API token
 - [Snowflake](https://github.com/snowflakedb/snowflake-mcp) 💲 ☁️ - Cloud data platform
 - [dbt](https://github.com/dbt-labs/dbt-core/tree/main/mcp) 💰 🏠/☁️ - Data transformation
 - [Tableau](https://github.com/tableau/tableau-mcp) 💲 ☁️ - Data visualization
