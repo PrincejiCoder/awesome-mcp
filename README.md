@@ -222,6 +222,7 @@ Servers with free tiers or that require paid API access.
 
 #### 📊 Data & Analytics
 
+- [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) 💰 🏠 🟢 - Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. Local stdio server (`npx -y github:GeminiGeorge22/gov-tenders-mcp`); needs your own Apify API token
 - [Snowflake](https://github.com/snowflakedb/snowflake-mcp) 💲 ☁️ - Cloud data platform
 - [dbt](https://github.com/dbt-labs/dbt-core/tree/main/mcp) 💰 🏠/☁️ - Data transformation
 - [Tableau](https://github.com/tableau/tableau-mcp) 💲 ☁️ - Data visualization
