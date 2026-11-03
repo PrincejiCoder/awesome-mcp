@@ -222,6 +222,7 @@ Servers with free tiers or that require paid API access.
 
 #### 📊 Data & Analytics
 
+- [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) 💰 🏠 🟢 - New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Local stdio server (`npx -y github:GeminiGeorge22/ats-jobs-mcp`); needs your own Apify API token
 - [Snowflake](https://github.com/snowflakedb/snowflake-mcp) 💲 ☁️ - Cloud data platform
 - [dbt](https://github.com/dbt-labs/dbt-core/tree/main/mcp) 💰 🏠/☁️ - Data transformation
 - [Tableau](https://github.com/tableau/tableau-mcp) 💲 ☁️ - Data visualization
