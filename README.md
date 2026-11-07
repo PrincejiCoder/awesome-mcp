@@ -154,6 +154,7 @@ Servers that are **free to use**, with no API keys or optional free registration
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 🔑 ☁️ 🟢 - Web search
 - [Google Search](https://github.com/mixelpixx/Google-Search-MCP-Server) 🆓 ☁️ 🟢 - Google search results
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) 🆓 ☁️ 🟢 - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) 🆓 ☁️ 🟢 - Live data-center site selection layer: Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (94 tools). Remote: `https://dchub.cloud/mcp`
 
 #### 🧠 AI & Productivity
 
