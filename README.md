@@ -156,6 +156,8 @@ Servers that are **free to use**, with no API keys or optional free registration
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) 🆓 ☁️ 🟢 - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) 🆓 ☁️ 🟢 - Live data-center site selection layer: Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (94 tools). Remote: `https://dchub.cloud/mcp`
 
+- [CheapCarRent](https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp) 🆓 ☁️ 🟢 🟢 - Read-only remote MCP server to search car rental offers and list pickup locations.
+
 #### 🧠 AI & Productivity
 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) 🆓 🏠 - Problem-solving through thought sequences
