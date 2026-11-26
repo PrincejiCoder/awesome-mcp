@@ -196,6 +196,7 @@ Servers with free tiers or that require paid API access.
 - [Discord](https://github.com/discord/discord-mcp) 💰 ☁️ 🟡 - Discord server management
 - [Gmail](https://github.com/google/gmail-mcp) 💰 ☁️ 🟡 - Gmail email access
 - [PlaceCall](https://github.com/voygr-tech/placecall) 💰 ☁️ 🟡 - Places real phone calls to US businesses for bookings and quotes and returns the outcome and transcript.
+- [Poptin MCP](https://developers.poptin.com/docs/mcp) 💰 ☁️ 🟡 🟢 - Draft email campaigns, review popup and signup form performance, and build audience segments via OAuth.
 - [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 💰 ☁️ 🟡 - Slack workspace integration
 
 #### 💰 Finance & Business
