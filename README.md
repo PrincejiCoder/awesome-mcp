@@ -207,6 +207,7 @@ Servers with free tiers or that require paid API access.
 - [Alpha Vantage](https://mcp.alphavantage.co/) 💰 ☁️ 🟢 - Financial market data
 - [FirstSales](https://developer.firstsales.io) 💲 ☁️ 🟡 - Hosted CRM MCP for companies, deals, pipelines, activities and contact creation through OAuth and Streamable HTTP; requires an eligible paid workspace.
 - [NotFair](https://notfair.co/) 💰 ☁️ 🟡 - Google Ads MCP server: diagnose performance, recommend optimizations, execute approved changes via the Google Ads API
+- [Genaya Connect](https://developer.genaya.com/mcp) 💲 ☁️ 🟡 - Hosted MCP for a service business's appointments, clients, invoices, calls and tasks over OAuth 2.1 and Streamable HTTP; changes are prepared for the member to confirm, and a paid Genaya plan is required (14-day free trial).
 
 #### 🔍 Search & Analytics
 
