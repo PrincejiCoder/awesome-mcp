@@ -233,7 +233,7 @@ Servers with free tiers or that require paid API access.
 - [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) 💰 🏠 🟢 - Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome. Local stdio server (`npx -y github:GeminiGeorge22/sports-odds-mcp`); needs your own Apify API token
 - [Tableau](https://github.com/tableau/tableau-mcp) 💲 ☁️ - Data visualization
 - [Amplitude](https://amplitude.com/mcp) 💲 ☁️ - Product analytics
-- [Frank AI Researcher](https://www.hifrank.ai) 💰 ☁️ 🟡 🟢 - Official remote MCP for AI-moderated voice interviews with your customers; share a link or website widget and read the transcripts (endpoint `https://api.hifrank.ai/mcp`).
+- [Frank AI Researcher](https://www.hifrank.ai) 💰 ☁️ 🟡 🟢 - Remote MCP for AI-moderated voice interviews with your customers; share a link or website widget and read the transcripts (endpoint `https://api.hifrank.ai/mcp`).
 
 #### 🛠️ Development Tools
 
